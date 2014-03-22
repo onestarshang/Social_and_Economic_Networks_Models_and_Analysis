@@ -1,0 +1,44 @@
+﻿
+
+------------------------------------------------------------------------------
+Reading Network   ---    E:\XunleiDownload\Social and Economic Networks Models and Analysis\week1\METHODSC.NET
+------------------------------------------------------------------------------
+ Working...
+             90 lines read.
+ Time spent:  0:00:00
+
+------------------------------------------------------------------------------
+1. E:\XunleiDownload\Social and Economic Networks Models and Analysis\week1\METHODSC.NET (18)
+------------------------------------------------------------------------------
+Number of vertices (n): 18
+----------------------------------------------------------
+                                       Arcs          Edges
+----------------------------------------------------------
+Total number of lines                    70              0
+----------------------------------------------------------
+Number of loops                           0              0
+Number of multiple lines                  0              0
+----------------------------------------------------------
+
+Density1 [loops allowed] = 0.21604938
+Density2 [no loops allowed] = 0.22875817
+Average Degree = 7.77777778
+
+
+------------------------------------------------------------------------------
+Searching the longest shortest path in 1. E:\XunleiDownload\Social and Economic Networks Models and Analysis\week1\METHODSC.NET (18)
+------------------------------------------------------------------------------
+ Working...
+ 
+           Result:   
+ The longest shortest path from BRAZEY (2) to JENNIE (6). Diameter is 6.
+ Time spent:  0:00:00
+ Time spent:  0:00:00
+
+------------------------------------------------------------------------------
+Computing Clustering Coefficients
+------------------------------------------------------------------------------
+ Working...
+ Watts-Strogatz Clustering Coefficient: 0.56851852
+ Network Clustering Coefficient (Transitivity): 0.50467290
+ Time spent:  0:00:00
